@@ -1,14 +1,22 @@
 - title: rgssad-rs
   description: >
-    A reader and writer for 2 kinds of RPGMaker Archives. It also includes a CLI.  An online demo of this library is also available.
+    A reader and writer for 2 kinds of RPGMaker Archives. It also includes a CLI. An online demo of this library is also available.
 
   urls:
     Source: https://github.com/nathaniel-daniel/rgssad-rs
     Docs: https://nathaniel-daniel.github.io/rgssad-rs/rgssad/
     Demo: https://nathaniel-daniel.github.io/rgssad-online-viewer/
     Demo Source: https://github.com/nathaniel-daniel/rgssad-online-viewer
+- title: logitech-led-sdk-rs
+  description: Rust bindings for the Logitech LED SDK. Also published on crates.io.
+  urls:
+    Crates.io: https://crates.io/crates/logitech-led-sdk
+    Source: https://github.com/nathaniel-daniel/logitech-led-sdk-rs
+    Docs (git master): https://docs.rs/logitech-led-sdk/latest/logitech_led_sdk/
+    Docs (crates.io): https://docs.rs/logitech-led-sdk/latest/logitech_led_sdk/
 - title: zalgo-rs
   description: A zalgoifier for Rust.
   urls:
     Source: https://github.com/nathaniel-daniel/zalgo-rs
     Docs: https://nathaniel-daniel.github.io/zalgo-rs/zalgo/
+    
