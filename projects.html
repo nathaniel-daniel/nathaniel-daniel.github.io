@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h1>Projects</h1>
+Here are some various projects that I've worked on.
+
+<ul>
+    {% for item in site.data.projects %}
+        <li>
+            <h2>{{ item.title }}</h2>
+            <p>{{ item.description }}</p>
+            {% for item in item.urls %}
+                <a href="{{ item[1] }}">{{ item[0] }}</a>
+            {% endfor %}
+        </li>
+    {% endfor %}
+</ul>

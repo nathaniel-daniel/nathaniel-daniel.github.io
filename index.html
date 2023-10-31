@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<h1>Home</h1>
+<p>Hello, and welcome to my website. Everything is under construction.</p>
+
+
+<h2>Navigation</h2>
+<ul>
+    {% for item in site.data.pages %}
+        <li>
+            
+            <a href="{{ item.url }}">
+                {{ item.title }}
+            </a>
+        </li>
+    {% endfor %}
+</ul>

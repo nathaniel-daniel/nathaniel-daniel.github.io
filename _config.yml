@@ -17,18 +17,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
 title: Nathaniel Daniel's Website
 repository: nathaniel-daniel/nathaniel-daniel.github.io
 email: nathaniel.daniel12@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nathaniel Daniel's Github Pages Website
 # baseurl: "/" # the subpath of your site, e.g. /blog
+
 url: "https://nathaniel-daniel.github.io"
 # twitter_username: jekyllrb
-github_username: nathaniel-daniel
 
+github_username: nathaniel-daniel
 # Build settings
+
 theme: minima
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:

@@ -1,0 +1,14 @@
+- title: rgssad-rs
+  description: >
+    A reader and writer for 2 kinds of RPGMaker Archives. It also includes a CLI.  An online demo of this library is also available.
+
+  urls:
+    Source: https://github.com/nathaniel-daniel/rgssad-rs
+    Docs: https://nathaniel-daniel.github.io/rgssad-rs/rgssad/
+    Demo: https://nathaniel-daniel.github.io/rgssad-online-viewer/
+    Demo Source: https://github.com/nathaniel-daniel/rgssad-online-viewer
+- title: zalgo-rs
+  description: A zalgoifier for Rust.
+  urls:
+    Source: https://github.com/nathaniel-daniel/zalgo-rs
+    Docs: https://nathaniel-daniel.github.io/zalgo-rs/zalgo/
